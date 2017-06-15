@@ -1,0 +1,16 @@
+table {
+  width:500px;
+  height: 500px;
+  text-align: center;
+  font-size: 60pt;
+  font-weight: bold;
+  margin: 15%;
+  margin-left: 25%;
+  border = 2;
+}
+
+
+.container {
+  text-align: center;
+  margin-top: 5%;
+}
